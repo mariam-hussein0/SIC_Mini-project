@@ -1,0 +1,2 @@
+cd D:\SKADA\mqtt_mos\
+mosquitto -c mosquitto.conf -v
